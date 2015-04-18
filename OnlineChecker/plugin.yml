@@ -1,0 +1,10 @@
+name: OnlineChecker
+main: me.dommi2212.OnlineChecker.OnlineChecker
+version: 1.1.0
+author: dommi2212
+depend: [BungeeBridgeC]
+description: Gets if a player is on the network!
+commands:
+  isonline:
+    description: Gets if a player is on the network!
+    permission: isonline.use
